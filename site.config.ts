@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e5c6a5dc7d6f493c8c565919ccd68e18',
+  rootNotionPageId: '2ed84b35-ed17-4869-bfec-ed006b9c4126',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '111',
-  domain: 'notion.so/Getting-Started-e5c6a5dc7d6f493c8c565919ccd68e18',
+  domain: 'notion.so/2ed84b35-ed17-4869-bfec-ed006b9c4126',
   author: '111',
 
   // open graph metadata (optional)
