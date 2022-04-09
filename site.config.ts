@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '111',
-  domain: 'notion.so/ac1d70ac34a74ee58c79b2d0b17a0da6',
+  domain: 'amazing-pen-072.notion.site/ac1d70ac34a74ee58c79b2d0b17a0da6',
   author: '111',
 
   // open graph metadata (optional)
